@@ -2,3 +2,17 @@ Online book issue
 Request column for librarian for providing new books
 A separate column for digital library
 A search column to search availability of books
+
+
+Functional Requirements
+USER LOGIN
+REGISTER NEW USER
+REGISTER NEW BOOK
+SEARCH BOOK
+ISSUE BOOKS AND RETURN BOOKS
+
+Non Functional Requirements
+EFFICIENCY REQUIREMENT
+RELIABILITY REQUIREMENT
+USABILITY REQUIREMENT
+ORGANIZATIONAL REQUIREMENT IMPLEMENTATION REQUIREMENTS
